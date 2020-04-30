@@ -1,4 +1,4 @@
-Algoritmo ej1
+Algoritmo escribir_numeros_hasta
 	Definir numero como entero;
 	escribir "Dime un numero: ";
 	leer numero;
