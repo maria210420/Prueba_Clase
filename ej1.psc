@@ -1,4 +1,4 @@
-Algoritmo ej1
+Algoritmo ejercico1_tic_primer trimestre
 	Definir numero como entero;
 	escribir "Dime un numero: ";
 	leer numero;
